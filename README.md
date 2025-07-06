@@ -1,0 +1,1 @@
+Model soccer transfers between the Saudi League and the European Top 5 Leagues to understand what leads to players choosing their next team and how different payoffs/starting structures can lead to drastically different outcomes. 
